@@ -16,6 +16,5 @@
         remote="origin"
         sync-j="4" />
 
-    <project path="local/repo" name="vim" />
-    <project path="local/git" name="git" />
+    <project path="local/repo" name="repo" />
 </manifest>
