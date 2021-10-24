@@ -1,0 +1,21 @@
+<manifest>
+<remote fetch=".." name="origin" review="http://gerrit.calterah.com:8080/" />
+<default revision="master" remote="origin" sync-j="4" />
+<project name="alps_autosar_mcal" remote="origin" path="alps_autosar_mcal"/>
+<project name="platform_sdk_dev" remote="origin" path="platform_sdk_dev"/>
+</manifest>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote  name="origin"
+        fetch="https://github.com/yujiawang2021/mymanifest"
+        review="https://github.com/yujiawang2021/mymanifest" />
+
+    <default revision="master"
+        remote="origin"
+        sync-j="4" />
+
+    <project path="local/repo" name="vim" />
+    <project path="local/git" name="git" />
+</manifest>
