@@ -1,5 +1,4 @@
 <manifest>
-
     <remote  name="origin"
         fetch="https://github.com/yujiawang2021/mymanifest"
         review="https://github.com/yujiawang2021/mymanifest" />
