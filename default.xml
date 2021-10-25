@@ -1,7 +1,7 @@
 <manifest>
     <remote  name="origin"
-        fetch="https://github.com/yujiawang2021/mymanifest"
-        review="https://github.com/yujiawang2021/mymanifest" />
+        fetch="https://github.com/yujiawang2021"
+        review="https://github.com/yujiawang2021" />
 
     <default revision="master"
         remote="origin"
